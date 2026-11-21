@@ -1,0 +1,37 @@
+{
+  "vonelm2007strobe": {
+    "text": "von Elm E, Altman DG, Egger M, et al. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement. Ann Intern Med. 2007;147(8):573-577.",
+    "doi": "10.7326/0003-4819-147-8-200710160-00010",
+    "src": "pubmed"
+  },
+  "bouhassira2005dn4": {
+    "text": "Bouhassira D, Attal N, Alchaar H, et al. Comparison of pain syndromes associated with nervous or somatic lesions and development of a new neuropathic pain diagnostic questionnaire (DN4). Pain. 2005;114(1-2):29-36.",
+    "doi": "10.1016/j.pain.2004.12.010",
+    "src": "pubmed"
+  },
+  "cella2010promis": {
+    "text": "Cella D, Riley W, Stone A, et al. The Patient-Reported Outcomes Measurement Information System (PROMIS) developed and tested its first wave of adult self-reported health outcome item banks. J Clin Epidemiol. 2010;63(11):1179-1194.",
+    "doi": "10.1016/j.jclinepi.2010.04.011",
+    "src": "pubmed"
+  },
+  "vanderweele2017evalue": {
+    "text": "VanderWeele TJ, Ding P. Sensitivity analysis in observational research: introducing the E-value. Ann Intern Med. 2017;167(4):268-274.",
+    "doi": "10.7326/M16-2607",
+    "src": "pubmed"
+  },
+  "weinstein2008sport": {
+    "text": "Weinstein JN, Tosteson TD, Lurie JD, et al. Surgical versus nonsurgical therapy for lumbar spinal stenosis. N Engl J Med. 2008;358(8):794-810.",
+    "doi": "10.1056/NEJMoa0707136",
+    "src": "pubmed"
+  },
+  "mcgregor2014rehab": {
+    "text": "McGregor AH, Probyn K, Cro S, et al. Rehabilitation following surgery for lumbar spinal stenosis: a Cochrane review. Spine. 2014;39(13):1044-1054.",
+    "doi": "10.1097/BRS.0000000000000355",
+    "src": "pubmed"
+  },
+  "ostelo2008rehab": {
+    "text": "Ostelo RWJG, Costa LOP, Maher CG, de Vet HCW, van Tulder MW. Rehabilitation after lumbar disc surgery. Cochrane Database Syst Rev. 2008;(4):CD003007.",
+    "doi": "10.1002/14651858.CD003007.pub2",
+    "src": "pubmed"
+  }
+}
